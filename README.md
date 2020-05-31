@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # switch
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Switch
+封装switch按钮
+>>>>>>> 98388270ef9ff973a6f8a0ae59c6949e7d421b81
